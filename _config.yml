@@ -1,42 +1,22 @@
-title: "RogueBit Realm"
-author: "0xEB0din"
-description: "Venturing beyond AWS to the vast landscape of cloud providers, 'RogueBit Realm' focuses on budget-friendly, secure tech solutions for the savvy cloud explorer." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+# Setup
+title:            RogueBit
+tagline:          'My Cloud Portfolio'
+description:      'Building my cloud portfolio here <a href="https://jekyllrb.com" target="_blank">Jekyll</a> kill me now. Made by <a href="https://twitter.com/0xeb0din" target="_blank">@0xeb0din</a>.'
+url:              https://roguebit.me
+baseurl:          ''
+paginate:         5
+github:
+  repo: https://github.com/0xeb0din
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-email: "edge@roguebit.me"
-twitter_username: "0xEB0din"
-github_username: "0xEB0din"
-linkedin_username: "ebrahimson"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+# About and contact
+author:
+  name:           'RogueBit'
+  url:            https://twitter.com/0xeb0din
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
-
-rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
+# Gems
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
 
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
+# Custom vars
+version:          3.0.0
