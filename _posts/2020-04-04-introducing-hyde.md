@@ -1,11 +1,9 @@
 ---
 layout: post
-title: crap dog
+title: The Classic M57 Case, Document Exfiltration
 ---
 
-Trying to improve my shit life here
-
-### Built on Poole
+### Digital Forensics 101
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 

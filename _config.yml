@@ -1,7 +1,7 @@
 # Setup
 title:            RogueBit
 tagline:          'My Cloud Portfolio'
-description:      'Building my cloud portfolio here <a href="https://jekyllrb.com" target="_blank">Jekyll</a> kill me now. Made by <a href="https://twitter.com/0xeb0din" target="_blank">@0xeb0din</a>.'
+description:      'Venturing beyond AWS to the vast landscape of cloud providers, "RogueBit Realm" focuses on budget-friendly, secure tech solutions for the savvy cloud explorer.'
 url:              https://0xeb0din.github.io
 baseurl:          ''
 paginate:         5
@@ -19,4 +19,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version: 3.0.0
