@@ -1,12 +1,14 @@
 # Setup
 title:            RogueBit
 tagline:          'My Cloud Portfolio'
-description:      'Venturing beyond AWS to the vast landscape of cloud providers, "RogueBit Realm" focuses on budget-friendly, secure tech solutions for the savvy cloud explorer.'
+description:      'RogueBit Realm: Your compass in the cloud and cybersecurity universe. Discover cost-effective, secure cloud solutions and master the art of digital defense. We''re not just exploring cloud technology; we''re fortifying it against the ever-evolving threats of the cyber world.'
 url:              https://0xeb0din.github.io
 baseurl:          ''
 paginate:         5
 github:
   repo: https://github.com/0xeb0din
+personal:
+  url: https://roguebit.me/
 
 # About and contact
 author:
